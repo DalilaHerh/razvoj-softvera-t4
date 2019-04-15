@@ -34,7 +34,7 @@ public class Racun {
 
 
     public Racun() {
-        this.stavke = new ArrayList<>()
+        this.stavke = new ArrayList<>();
     }
 
 
